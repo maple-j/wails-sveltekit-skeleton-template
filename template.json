@@ -1,7 +1,7 @@
 {
-  "name": "Long name",
-  "shortname": "wails-sveltekit-skeleton-template",
-  "author": "",
-  "description": "Description of the template",
-  "helpurl": "URL for help with the template, eg homepage"
+  "name": "wails-sveltekit-skeleton-template",
+  "shortname": "sveltekit-skeleton",
+  "author": "maple-j",
+  "description": "wails-sveltekit-skeleton-template.",
+  "helpurl": "https://github.com/maple-j/wails-sveltekit-skeleton-template"
 }
